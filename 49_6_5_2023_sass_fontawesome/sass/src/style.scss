@@ -1,0 +1,55 @@
+
+$bgbody:#deb887;
+$m1:0;
+$mt:100px;
+$p1:0;
+$p:10px;
+$m:10px;
+$w:40%;
+$h:30px;
+$bglogo:rgb(53, 15, 160);
+$logocolor: #fff;;
+$bgcard:#64533d31;
+$fontsize:25px;
+$bglogo1:#1a130b;
+$borde-rad:50%;
+
+$w1:50%;
+$h1:auto;
+$m2:auto;
+$p2:10px;
+
+body{
+    margin: $m1;
+    padding: $p1;
+    box-sizing: border-box;
+    background-color: $bgbody;
+}
+.login{
+    width: $w1;
+    height: $h1;
+    margin: $m2;
+    padding: $p2;
+    margin-top: $mt;
+    background-color: $bgcard;
+}
+.inp{
+    width: $w;
+    height: $h;
+}
+.btn{
+    width: $w;
+    height: $h;
+    background-color: $bglogo;
+    color: $logocolor;
+}
+.fa-facebook{
+    font-size: $fontsize;
+    background-color: $bglogo1;
+    border-radius: $borde-rad;
+    padding: $p;
+    color: $logocolor;
+}
+
+
+

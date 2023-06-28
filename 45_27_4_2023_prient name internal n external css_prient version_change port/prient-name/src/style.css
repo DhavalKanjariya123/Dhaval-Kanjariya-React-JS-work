@@ -1,0 +1,15 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: azure;
+}
+.text{
+  width: 40%;
+  height: auto;
+  margin: auto;
+  color: brown;
+  background-color: aqua;
+  margin-top: 5%;
+  padding: 30px;
+}

@@ -1,0 +1,51 @@
+{
+  "product": [
+    {
+      "fname": "Dhaval",
+      "age": "32",
+      "mobile": "9825166515",
+      "id": 1
+    },
+    {
+      "fname": "Tako",
+      "age": "24",
+      "mobile": "98251666515",
+      "id": 2
+    },
+    {
+      "fname": "hiten",
+      "age": "22",
+      "mobile": "9687431212",
+      "id": 3
+    },
+    {
+      "fname": "Shivam",
+      "age": "28",
+      "mobile": "7567968294",
+      "id": 4
+    },
+    {
+      "fname": "Vishal",
+      "age": "30",
+      "mobile": "7567968294",
+      "id": 5
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

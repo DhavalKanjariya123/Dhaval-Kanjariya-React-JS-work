@@ -1,0 +1,38 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  background-color: beige;
+}
+.ticket-booking{
+    display: flex;
+}
+.ticket-booking1{
+  width: 50%;
+  height: auto;
+  text-align: center;
+}
+
+.ticket-booking2{
+  width: 50%;
+  height: auto;
+  text-align: left;
+  margin-top: 50px;
+}
+.inp{
+  width: 40%;
+}
+.inp[placeholder]{
+  padding: 5px;
+  font-size: 15px;
+}
+.btn{
+  width: 10%;
+  height: auto;
+  background-color: aqua;
+  color: black;
+  margin: 5px;
+  padding: 5px;
+  font-size: 15px;
+}

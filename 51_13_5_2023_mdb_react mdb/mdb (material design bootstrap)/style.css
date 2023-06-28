@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: black; */
+}
+.img1{
+    width: 100%;
+    height: auto;
+}
+.modal-dialog {
+    position:fixed;
+    bottom:0px;
+    right:0px;
+    margin:0px;
+}
